@@ -1,0 +1,12 @@
+                             ONOOFF                             
+           VENTA Y REPARACION DE DISPOSITIVOS MOVILES          
+           ------------- TICKET DE VENTA ------------          
+Calle 2 de abril 1008 Oaxaca de Juarez Oaxaca                  
+Correo electrónico esajim.16@gmail.com     Telefono: 9515715350Fecha: 2023-12-08T13:03:08.303
+
+Poducto		Precio	Cantidad	Subtotal
+display		1000.0	0	0.0
+---------------------------------
+Total:				0.0
+
+------------------- Gracias por su preferecia -------------------
